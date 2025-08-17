@@ -1,0 +1,40 @@
+# ---- macOS 관련 ----
+.DS_Store
+
+# ---- Java 관련 ----
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# ---- Python 관련 ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.log
+
+# 가상환경 (venv)
+venv/
+ENV/
+env/
+.venv/
+
+# ---- IDE/Editor 관련 ----
+# IntelliJ / IDEA
+/.idea/
+*.iml
+out/
+
+# VSCode
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
