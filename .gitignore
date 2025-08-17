@@ -27,6 +27,8 @@ env/
 # ---- IDE/Editor 관련 ----
 # IntelliJ / IDEA
 /.idea/
+/java/.idea/
+/python/.idea/
 *.iml
 out/
 
@@ -37,4 +39,6 @@ out/
 .project
 .classpath
 .settings/
+
+
 
